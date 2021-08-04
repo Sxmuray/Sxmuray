@@ -5,8 +5,8 @@ Currently I was in too many known or unknown server projects I had the managemen
 
 Here are my social networks:
 
-- DISCORD: https://discord.gg/HcBJwXtQYg
-- TWITTER: https://twitter.com/isxmuray
-- SPIGOTMC: https://www.spigotmc.org/members/sxmuray.1339322/
+- Discord: https://discord.gg/HcBJwXtQYg
+- Twitter: https://twitter.com/isxmuray
+- SpigotMC: https://www.spigotmc.org/members/sxmuray.1339322/
 
 If you want to contact me you can do it from discord as well as twitter I am active in those two networks.
