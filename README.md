@@ -5,7 +5,6 @@ Currently I was in too many known or unknown server projects I had the managemen
 
 Here are my social networks:
 
-- Discord: https://discord.gg/HcBJwXtQYg
 - Twitter: https://twitter.com/isxmuray
 - SpigotMC: https://www.spigotmc.org/members/sxmuray.1339322/
 
