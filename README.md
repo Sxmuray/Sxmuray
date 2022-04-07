@@ -2,6 +2,9 @@
 
 <h1 align="center">Software Engineer at Aquatic Studios</h1>
 
+![ASSTARTED](https://user-images.githubusercontent.com/85844486/162143722-a8a2669b-3685-4ef8-abaa-d58dfc62b86d.png)
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/sxmuray" target="_blank">
