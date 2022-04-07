@@ -1,5 +1,5 @@
-<p align="left">
-</p>
+[![MasterHead](https://user-images.githubusercontent.com/85844486/162139167-976d2d88-9619-4081-bc34-ac78d994e5ab.png)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sxmuray&show_icons=true&theme=dark&locale=en" alt="sxmuray" /></p>
 
