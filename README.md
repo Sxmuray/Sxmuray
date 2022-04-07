@@ -17,6 +17,4 @@
 </div>  
 
 ## 📊 Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=sxmuray&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sxmuray&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
