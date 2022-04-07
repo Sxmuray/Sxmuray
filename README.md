@@ -18,3 +18,5 @@
 
 ## 📊 Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sxmuray&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sxmuray)  
