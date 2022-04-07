@@ -1,8 +1,6 @@
-[![MasterHead](https://user-images.githubusercontent.com/85844486/162139167-976d2d88-9619-4081-bc34-ac78d994e5ab.png)](https://discord.gg/XSWWCEhURx)
-
 <h1 align="center">Software Engineer at Aquatic Studios</h1>
 
-![ASSTARTED](https://user-images.githubusercontent.com/85844486/162143722-a8a2669b-3685-4ef8-abaa-d58dfc62b86d.png)
+[![ASSTARTED](https://user-images.githubusercontent.com/85844486/162143722-a8a2669b-3685-4ef8-abaa-d58dfc62b86d.png)](https://discord.gg/XSWWCEhURx)
 
 
 ## Connect with me  
