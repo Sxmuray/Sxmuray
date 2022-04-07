@@ -16,11 +16,4 @@
 </div>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sxmuray&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-<table><tr><td valign="top" width="33%">
-
-<div align="right">
-<img src="https://media.discordapp.net/attachments/958843383701471263/961526818844868608/TEST2-modified.png" align="right" height="200" width="" />
-</div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sxmuray&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
