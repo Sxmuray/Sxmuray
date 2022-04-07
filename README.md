@@ -3,7 +3,7 @@
 [![ASSTARTED](https://user-images.githubusercontent.com/85844486/162143722-a8a2669b-3685-4ef8-abaa-d58dfc62b86d.png)](https://discord.gg/XSWWCEhURx)
 
 
-## Connect with me  
+## 🧑🏻 Connect with me  
 <div align="center">
 <a href="https://github.com/sxmuray" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
