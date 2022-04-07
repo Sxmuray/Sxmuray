@@ -1,6 +1,6 @@
 <h1 align="center">Software Engineer at Aquatic Studios</h1>
 
-![ASSTARTED](https://user-images.githubusercontent.com/85844486/162154108-46ba8447-6e3d-49fe-8b64-71569c2be9fb.png)
+[![ASSTARTED](https://user-images.githubusercontent.com/85844486/162154108-46ba8447-6e3d-49fe-8b64-71569c2be9fb.png)](https://discord.gg/XSWWCEhURx)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
