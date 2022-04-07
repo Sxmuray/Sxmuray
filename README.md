@@ -4,4 +4,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sxmuray&show_icons=true&theme=dark&locale=en" alt="sxmuray" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sxmuray&theme=dark" alt="sxmuray" /></p>
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sxmuray&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
