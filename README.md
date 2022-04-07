@@ -3,11 +3,6 @@
 [![ASSTARTED](https://user-images.githubusercontent.com/85844486/162143722-a8a2669b-3685-4ef8-abaa-d58dfc62b86d.png)](https://discord.gg/XSWWCEhURx)
 
 
-## Social
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.twitter.com/zsxmuray'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-
 ## 🧑🏻 Connect with me  
 <div align="center">
 <a href="https://github.com/sxmuray" target="_blank">
