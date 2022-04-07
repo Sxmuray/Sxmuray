@@ -2,7 +2,7 @@
 
 ![ASSTARTED](https://user-images.githubusercontent.com/85844486/162154108-46ba8447-6e3d-49fe-8b64-71569c2be9fb.png)
 
-<h1 align="center">Github stats</h1>
+## 📊 Github Stats
 
 <div>
 <a href="https://github.com/sxmuray">
