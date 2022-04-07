@@ -17,9 +17,7 @@
 </div>  
 
 ## 📊 Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sxmuray&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-![GitHub metrics](https://metrics.lecoq.io/sxmuray)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sxmuray&show_icons=true&count_private=true)  
 
 <h1 align="center">Activity</h1>
 
