@@ -12,4 +12,4 @@
 
 <h1 align="center">Activity</h1>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sxmuray&bg_color=ffffff&color=828282&line=000000&point=009dff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sxmuray&bg_color=272626&color=ffffff&line=ffffff&point=0084ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
