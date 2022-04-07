@@ -1,5 +1,7 @@
 <h1 align="center">Software Engineer at Aquatic Studios</h1>
 
+![ASSTARTED](https://user-images.githubusercontent.com/85844486/162154108-46ba8447-6e3d-49fe-8b64-71569c2be9fb.png)
+
 <div>
 <a href="https://github.com/sxmuray">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sxmuray&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
